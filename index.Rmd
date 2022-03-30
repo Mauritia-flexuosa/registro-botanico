@@ -30,7 +30,7 @@ xaringanExtra::use_broadcast()
 
 ## Objetivo
 
-**A oficina tem por finalidade apresentar os aspectos da identificação botânica sistematizada para orientar e padronizar o registro dos detalhes das plantas relevantes para a identificação das espécies por especialistas.**
+**Orientar o registro fotográfico dos detalhes das plantas visando a identificação das espécies por especialistas.**
 
 .center[
 <img width="70%" src="slide2.JPG"/>
@@ -38,9 +38,12 @@ xaringanExtra::use_broadcast()
 
 ---
 
-## Aplicação
+## Aplicação do conteúdo apresentado
 
-**As fotografias podem alimentar bancos de dados de plantas, compor guias de identificação, contribuir com a identificação de novas espécies, monitoramento da biodiversidade e popularização da ciência e do conhecimento.**
+- Alimentar bancos de dados de plantas;
+- Compor guias de identificação de espécies;
+- Contribuir com a identificação de novas espécies;
+- Popularização da ciência e do conhecimento.
 
 exemplo: [inaturalist app](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=pt_BR&gl=US)
 
@@ -49,7 +52,7 @@ exemplo: [inaturalist app](https://play.google.com/store/apps/details?id=org.ina
 ---
 ## Um pouco de teoria
 
-### O que é identificação botânica?
+### O que é identificação botânica sistemática?
 
 ### Porque a identificação sistemática é importante?
 
@@ -62,23 +65,26 @@ exemplo: [inaturalist app](https://play.google.com/store/apps/details?id=org.ina
 ## Quais as estruturas das plantas importantes para a identificação botânica?
 
 .center[
-<img width="60%" src="https://escolaeducacao.com.br/wp-content/uploads/2019/10/partes-das-plantas.jpg"/>
+<img width="70%" src="https://escolaeducacao.com.br/wp-content/uploads/2019/10/partes-das-plantas.jpg"/>
 ]
 ---
 
 ## Quais as estruturas das plantas importantes para a identificação botânica?
 
 .center[
-<img width="50%" src="https://www.infoescola.com/wp-content/uploads/2009/08/caule-746477959.jpg"/>
+<img width="48%" src="https://www.infoescola.com/wp-content/uploads/2009/08/caule-746477959.jpg"/>
+<img width="51%" src="https://www.infoescola.com/wp-content/uploads/2013/09/anatomia-folha-232037599.jpg"/>
 ]
+Fonte: https://www.infoescola.com/plantas/folhas/
 ---
 
 ## Quais as estruturas das plantas importantes para a identificação botânica?
 
 .center[
-<img width="70%" src="https://www.vestibulandoweb.com.br/educacao/wp-content/uploads/2019/06/questoes-raiz-caule-folha-ufsc-2018.jpg"/>
+<img width="80%" src="https://www.infoescola.com/wp-content/uploads/2020/04/morfologia-folhas-173007716-1000x613.jpg"/>
 ]
 
+Fonte:https://www.infoescola.com/plantas/morfologia-interna-da-folha/
 ---
 class: top, center
 
@@ -88,14 +94,19 @@ class: top, center
 <img width="30%" src="slide5.jpeg"/>
 <img width="30%" src="inga.JPG"/>
 
+Fotos da esquerda e centro: Folha de nogueira;
+Direita: Ingá
 ---
 class: top, center
 
 ## Flores ou inflorescências?
 
 .center[
-<img width="50%" src="inflorescencia.jpeg"/>
+<img width="40%" src="https://cdn.pixabay.com/photo/2016/08/28/23/24/sunflower-1627193_960_720.jpg"/>
+<img width="50%" src="https://cdn.pixabay.com/photo/2011/08/19/16/10/sunflower-9045_960_720.jpg"/>
 ]
+
+As *Asteraceae* como o girassol ou a arnica possuem inflorescências.
 ---
 ## Características que se destacam
 
@@ -103,6 +114,19 @@ class: top, center
 <img width="45%" src="tronco1.jpeg"/>
 <img width="45%" src="tronco2.jpeg"/>
 ]
+Esquerda: Paineira (*Ceiba speciosa*); Direita: Guarapuvu (*Schizolobium parahyba*)
+---
+## Outras questões relevantes que a fotografia não captura
+
+### Possui latex ao se destacarem as folhas?
+
+### As folhas ou o tronco possuem cheiro?
+
+.center[
+<img width="45%" src="https://tropical.theferns.info/plantimages/sized/4/9/49bc529813ac38a64907b8c76288cdb8ee8b6593_428px.jpg"/>
+]
+As *Lauraceae* como a Canela sassafrás (*Ocotea odorifera*) possuem cheiro bem característico.
+
 
 ---
 ## Para colocar em prática
@@ -113,6 +137,7 @@ a. Tire mais de uma foto. Pelo menos uma da planta inteira;
 <img width="30%" src="slide6-2.jpeg"/>
 <img width="30%" src="slide6-3.jpeg"/>
 
+Pé de goiaba.
 ---
 
 ## Para colocar em prática
@@ -129,7 +154,7 @@ c. Se houver, registre frutos e flores;
 
 <img width="35%" src="nozes.jpeg"/>
 <img width="33%" src="pitanga.JPG"/><img width="31%" src="annona.JPG"/>
-
+Nozes, pitanga e *Annona cf glabra*
 ---
 
 ## Para colocar em prática
@@ -138,6 +163,7 @@ d. Busque contraste com um fundo homogêneo ao registrar estruturas importantes;
 
 <img width="45%" src="fundo2.jpeg"/>
 <img width="45%" src="fundo1.jpeg"/>
+Pitangueira
 ---
 
 ## Para colocar em prática
@@ -145,9 +171,10 @@ d. Busque contraste com um fundo homogêneo ao registrar estruturas importantes;
 e. As imagens devem ter algo servindo de escala (régua, mão, celular, caneta)
 
 .center[
-<img width="40%" src="escala1.jpeg"/>
-<img width="40%" src="escala2.jpeg"/>
+<img width="35%" src="escala1.jpeg"/>
+<img width="35%" src="escala2.jpeg"/>
 ]
+
 ---
 
 ## Para colocar em prática

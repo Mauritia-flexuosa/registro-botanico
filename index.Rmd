@@ -3,7 +3,7 @@ title: "Aspectos da identificação botânica importantes para o registro fotogr
 subtitle: "⚔<br/>Teoria e prática"
 author: "Marcio Baldissera Cure"
 institute: "PPG Ecologia - UFSC; Projeto Frutos da Costa"
-date: "Atividade realizada no Espaço Quimera em `r Sys.Date()`"
+date: "Encontro Comunitário Costa em Arte em `r Sys.Date()`"
 output: 
   xaringan::moon_reader:
     chakra: libs/remark-latest.min.js
@@ -41,18 +41,21 @@ xaringanExtra::use_broadcast()
 ## Aplicação do conteúdo apresentado
 
 - Alimentar bancos de dados de plantas;
+
 - Compor guias de identificação de espécies;
+
 - Contribuir com a identificação de novas espécies;
+
 - Popularização da ciência e do conhecimento.
 
 exemplo: [inaturalist app](https://play.google.com/store/apps/details?id=org.inaturalist.android&hl=pt_BR&gl=US)
 
 .center[
-<img width="60%" src="https://mymodernmet.com/wp/wp-content/uploads/2018/03/seek-app-2.png"/>]
+<img width="70%" src="https://mymodernmet.com/wp/wp-content/uploads/2018/03/seek-app-2.png"/>]
 ---
 ## Um pouco de teoria
 
-### O que é identificação botânica sistemática?
+### O que é classificação botânica sistemática?
 
 ### Porque a identificação sistemática é importante?
 
@@ -72,13 +75,13 @@ exemplo: [inaturalist app](https://play.google.com/store/apps/details?id=org.ina
 ## Quais as estruturas das plantas importantes para a identificação botânica?
 
 .center[
-<img width="48%" src="https://www.infoescola.com/wp-content/uploads/2009/08/caule-746477959.jpg"/>
-<img width="51%" src="https://www.infoescola.com/wp-content/uploads/2013/09/anatomia-folha-232037599.jpg"/>
+<img width="47%" src="https://www.infoescola.com/wp-content/uploads/2009/08/caule-746477959.jpg"/>
+<img width="50%" src="https://www.infoescola.com/wp-content/uploads/2013/09/anatomia-folha-232037599.jpg"/>
 ]
 Fonte: https://www.infoescola.com/plantas/folhas/
 ---
 
-## Quais as estruturas das plantas importantes para a identificação botânica?
+## Dá pra aumentar a complexidade...mas não será necessário tanto detalhe. UFA!
 
 .center[
 <img width="80%" src="https://www.infoescola.com/wp-content/uploads/2020/04/morfologia-folhas-173007716-1000x613.jpg"/>
@@ -96,6 +99,14 @@ class: top, center
 
 Fotos da esquerda e centro: Folha de nogueira;
 Direita: Ingá
+---
+class: top, center
+
+## Folhas opostas ou alternas?
+
+<img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Ulistnienie.svg/1920px-Ulistnienie.svg.png"/>
+
+### Chamado de Filotaxia das folhas
 ---
 class: top, center
 
@@ -131,7 +142,7 @@ As *Lauraceae* como a Canela sassafrás (*Ocotea odorifera*) possuem cheiro bem 
 ---
 ## Para colocar em prática
 
-a. Tire mais de uma foto. Pelo menos uma da planta inteira;
+### a. Tire mais de uma foto. Pelo menos uma da planta inteira;
 
 <img width="30%" src="slide6-1.jpeg"/>
 <img width="30%" src="slide6-2.jpeg"/>
@@ -142,15 +153,16 @@ Pé de goiaba.
 
 ## Para colocar em prática
 
-b. Registre o conjunto de folhas e não apenas uma (inserção das folhas nos ramos também);
+### b. Registre o **conjunto de folhas** e não apenas uma (inserção das folhas nos ramos também);
 
 <img width="43%" src="slide7-1.jpeg"/>
 <img width="55%" src="cafe.JPG"/>
+Esquerda: Nogueira; Direita: Cafeeiro.
 ---
 
 ## Para colocar em prática
 
-c. Se houver, registre frutos e flores;
+### c. Se houver, **registre frutos e flores**;
 
 <img width="35%" src="nozes.jpeg"/>
 <img width="33%" src="pitanga.JPG"/><img width="31%" src="annona.JPG"/>
@@ -159,27 +171,29 @@ Nozes, pitanga e *Annona cf glabra*
 
 ## Para colocar em prática
 
-d. Busque contraste com um fundo homogêneo ao registrar estruturas importantes;
+### d. Busque contraste com um **fundo homogêneo** ao registrar estruturas importantes;
 
 <img width="45%" src="fundo2.jpeg"/>
+--
+
 <img width="45%" src="fundo1.jpeg"/>
 Pitangueira
 ---
 
 ## Para colocar em prática
 
-e. As imagens devem ter algo servindo de escala (régua, mão, celular, caneta)
+### e. As imagens devem ter algo servindo de **escala** (régua, mão, celular, caneta)
 
 .center[
-<img width="35%" src="escala1.jpeg"/>
-<img width="35%" src="escala2.jpeg"/>
+<img width="31%" src="escala1.jpeg"/>
+<img width="31%" src="escala2.jpeg"/>
 ]
 
 ---
 
 ## Para colocar em prática
 
-f. Nitidez é importante. Logo após o registro, verifique se a foto ficou nítida
+### f. **Nitidez é importante.** Logo após o registro, verifique se a foto ficou nítida
 
 .center[
 <img width="70%" src="resolução.JPG"/>
@@ -187,7 +201,7 @@ f. Nitidez é importante. Logo após o registro, verifique se a foto ficou níti
 
 ---
 
-## Prática!! Mãos à obra!
+## Proposta de atividade prática!
 
 .left[
 ### Vamos nos dividir em dois grupos?
@@ -232,13 +246,4 @@ f. Nitidez é importante. Logo após o registro, verifique se a foto ficou níti
 
 .center[
 <img width="70%" src="capa.png"/>
-]
-
----
-class: top left
-## Contato: 
-.center[
-
-<a href = "mailto:marciobcure@gmail.com"><img width="30%" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href = "Instagram:instagram.com/marciobcure"><img width="20%" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" target="_blank"></a>
 ]

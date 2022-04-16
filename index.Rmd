@@ -1,6 +1,6 @@
 ---
-title: "Orientações para o registro fotográfico de plantas visando a identificação"
-subtitle: "⚔<br/>Teoria e prática"
+title: "Como fotografar plantas visando a identificação?"
+subtitle: "<br/>Teoria e prática"
 author: "Marcio Baldissera Cure"
 institute: "PPG Ecologia - UFSC; Projeto Frutos da Costa"
 date: "Encontro Comunitário Costa em Arte em `r Sys.Date()`"
@@ -30,7 +30,7 @@ xaringanExtra::use_broadcast()
 
 ## Objetivo
 
-**Orientar o registro fotográfico dos detalhes das plantas visando a identificação das espécies por especialistas.**
+**Orientar as pessoas que fotografam plantas como é a melhor forma de capturar detalhes importantes para a identificação botânica.**
 
 .center[
 <img width="70%" src="slide2.JPG"/>
@@ -68,7 +68,7 @@ exemplo: [inaturalist app](https://play.google.com/store/apps/details?id=org.ina
 - **Desvendar os ramos que formam a árvore evolutiva da vida**;
 - **Descrever e nomear todas as espécies encontradas**.
 
-.center[
+.center[    
 <img width="100%" src="https://i0.wp.com/pontobiologia.com.br/wp-content/uploads/2018/10/evolução_2.jpg?resize=1024%2C416&ssl=1"/>
 ]
 
@@ -86,6 +86,8 @@ _Fonte da imagem :https://pontobiologia.com.br/evolucao-central-biologia/_
 ]
 ---
 ## Quais as estruturas das plantas importantes para a identificação botânica?
+
+--
 
 .center[
 <img width="70%" src="https://escolaeducacao.com.br/wp-content/uploads/2019/10/partes-das-plantas.jpg"/>
